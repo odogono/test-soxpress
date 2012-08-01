@@ -1,4 +1,4 @@
 test-soxpress
 =============
 
-a test of calling express routes from socket.io
+A minimal express/socket.io application with tests
